@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "410389266303",
+    "firebase_url": "https://tule-fd3a5.firebaseio.com",
+    "project_id": "tule-fd3a5",
+    "storage_bucket": "tule-fd3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410389266303:android:23b5800506a2756b",
+        "android_client_info": {
+          "package_name": "com.africastalking.tule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410389266303-1qjfi4c487k8o39eop2ksi11kfsg0dob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.africastalking.tule",
+            "certificate_hash": "60dbd53e69a55995da81ff23cc41c751636d3632"
+          }
+        },
+        {
+          "client_id": "410389266303-vijsfkjjooeonjd6r7cpvku0atgl32bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq39vSsGcOeXrYcYTdUoB1K3eitFnYKSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410389266303-vijsfkjjooeonjd6r7cpvku0atgl32bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
